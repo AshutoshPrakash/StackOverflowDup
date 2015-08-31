@@ -1,0 +1,6 @@
+I want to use a track-bar to change a form's opacity.
+How do I calculate someone's age in C#?
+How do I calculate relative time?
+Is there a standard way for a Web Server to determine what time zone offset a user is in?
+How do I store binary data in MySQL?
+If I have a trigger before the update on a table, how can I throw an error that prevents the update on that table?
