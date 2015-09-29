@@ -8,7 +8,6 @@ db.close()
 
 tags = [element for tupl in data for element in tupl] #flattening a nested structure
 
-
 with open("english_stop_words.txt") as f:
     stop_words = f.readlines()
 stop_words = [line.rstrip('\n') for line in stop_words]
