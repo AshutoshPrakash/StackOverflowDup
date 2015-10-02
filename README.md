@@ -10,15 +10,15 @@ python find_tag.py
 Pre-Install:
 sudo apt-get install python-scipy && sudo apt-get install python-matplotlib
 
-1. Word Count for questions in each category
+#1. Word Count for questions in each category
 	python question_word_count.py total
 	For avegare
 	python question_word_count.py average
-2. Word Count for questions in each category excluding Stop Words
+#2. Word Count for questions in each category excluding Stop Words
 	python question_word_count_no_stop_word.py total
 	For avegare
 	python question_word_count_no_stop_word.py average
-3. Word Count for Description in each category
+#3. Word Count for Description in each category
 	python description_word_count.py original
 	python description_word_count.py onevote
 	python description_word_count.py fourvote
@@ -26,7 +26,7 @@ sudo apt-get install python-scipy && sudo apt-get install python-matplotlib
 	python description_word_count.py average
 	and combined
 	python description_word_count.py total
-4. Word Count Ranges for description in each category
+#4. Word Count Ranges for description in each category
 	python description_word_range.py original
 	python description_word_range.py onevote
 	python description_word_range.py fourvote
